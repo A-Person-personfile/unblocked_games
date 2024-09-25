@@ -10,7 +10,7 @@ function start_auto_move(){
 function auto_move(){
 	if ( auto_move_flag === false )
 		return;
-	for(let i = 0; i < 10; i++){
+	for(let i = 0; i < 1000 - auto_move_time; i++){
 		var direction = Math.floor( Math.random() * 4 );
 		GM.move( direction );
 	}
