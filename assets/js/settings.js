@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { name: 'Silkscreen', displayName: 'Silkscreen' },
       { name: 'Audiowide', displayName: 'Audiowide' },
       { name: 'Handjet', displayName: 'Handjet' },
-      { name: 'Mojangles', displayName: 'Mojangles' }
+      { name: 'Minecraft', displayName: 'Mojangles' }
   ];
 
   const fontSelectDiv = document.getElementById('fontSelect');
