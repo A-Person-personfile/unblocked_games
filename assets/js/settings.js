@@ -108,7 +108,8 @@ document.addEventListener('DOMContentLoaded', function() {
       { name: 'Special Elite', displayName: 'Special Elite' },
       { name: 'Silkscreen', displayName: 'Silkscreen' },
       { name: 'Audiowide', displayName: 'Audiowide' },
-      { name: 'Handjet', displayName: 'Handjet' }
+      { name: 'Handjet', displayName: 'Handjet' },
+      { name: 'Mojangles', displayName: 'Mojangles' }
   ];
 
   const fontSelectDiv = document.getElementById('fontSelect');
