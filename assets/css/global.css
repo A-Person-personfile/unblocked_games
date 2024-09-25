@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 @import url('themes.scss.min.css');
-
+@font-face {
+    font-family: 'Minecraft';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Minecraft'), url('Minecraft.woff') format('woff');
+}
 
 body {
   background: var(--bg-color);
