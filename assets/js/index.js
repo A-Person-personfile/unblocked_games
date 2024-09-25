@@ -1,17 +1,17 @@
 // List of random texts
 const randomTexts = [
-    "it's not a bug it's a feature",
-    "gabriel looks like a dog",
-    "mitochondria is the powerhouse of the cell",
-    "i forgor",
+    "It's not a bug it's a feature",
+    "Gabriel looks like a dog",
+    "Mitochondria is the powerhouse of the cell",
+    "I forgor",
     "Wisdom is literally the best",
-    "erm, you should really be focusing on your schoolwork 🤓☝",
-    "did you know this text is random",
-    "y'all play games too much, the bandwidth of this site is like 600GB on a good month",
-    "did you know that there are 34 visual themes and 14 fonts to choose from in settings",
-    "did you know that you can change the site title and how the cloaking works in settings",
-    "did you know you can download all your games progresses into one file as a backup at the bottom of settings",
-    "did you know you can view the stats of how much you play games in stats"
+    "Erm, you should really be focusing on your schoolwork 🤓☝",
+    "Did you know this text is random",
+    "Y'all play games too much, the bandwidth of this site is like 600GB on a good month",
+    "Did you know that there are 34 visual themes and 14 fonts to choose from in settings",
+    "Did you know that you can change the site title and how the cloaking works in settings",
+    "Did you know you can download all your games progresses into one file as a backup at the bottom of settings",
+    "Did you know you can view the stats of how much you play games in stats"
 ];
 
 // Function to generate a random number
